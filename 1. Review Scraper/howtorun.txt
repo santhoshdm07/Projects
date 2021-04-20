@@ -1,0 +1,77 @@
+Step 1: Download the project from the Dashboard
+Step 2: Open your project in Pycharm
+Step 3: Create a new conda envrionment
+        conda create -n reviewscrapper python==3.6.9
+                You can create this conda environment from Anaconda prompt as well as from the pycharm terminal
+
+Step 4: Select the same environment in your pycharm interpreter settings
+        File->Setting->PythonProject->PythonInterpreter
+
+Step 5:  Install all the dependencies from requirements.txt file
+        pip install -r requirements.txt
+
+# heroku login
+# heroku create
+# git remote -v
+# git push heroku mMake sure git is installed
+	(Testing purpose)
+		on your command prompt type --> git    it should show you the git usage command
+
+All the below command need to be executed from your project folder
+
+	# git init
+	# create a simple file from any of the text editor name it as .gitignore
+	# Whatever the files or folders you don't want to push on you github repo. Add there names inside 	the file
+	# git add .
+	# git commit -m "initial commit"
+
+
+Make sure we have the heroku cli installed
+	(Testing purpose)
+		on your command prompt type --> heroku    it should show you the heroku usage command
+
+# heroku login
+# heroku create
+# git remote -v
+# git push heroku master
+
+<div class="_2pi5LC col-12-12"><div class="_13oc-S"><div data-id="MOBEMK62PN2HU7EE" style="width:100%"><div class="_2kHMtA" data-tkid="132cc3d2-94c2-4726-a114-67cfbf325bb0.MOBEMK62PN2HU7EE.SEARCH"><a class="_1fQZEK" target="_blank" rel="noopener noreferrer" href="/apple-iphone-7-black-32-gb/p/itmen6daftcqwzeg?pid=MOBEMK62PN2HU7EE&amp;lid=LSTMOBEMK62PN2HU7EEF7TO4A&amp;marketplace=FLIPKART&amp;srno=s_1_1&amp;otracker=search&amp;fm=organic&amp;iid=132cc3d2-94c2-4726-a114-67cfbf325bb0.MOBEMK62PN2HU7EE.SEARCH&amp;ssid=7dz713ejeo0000001608097779211&amp;qH=c848b7081ba96a14"><div class="MIXNux"><div class="_2QcLo-"><div><div class="CXW8mj" style="height:200px;width:200px"><img class="_396cs4 _3exPp9" alt="Apple iPhone 7 (Black, 32 GB)" src="https://rukminim1.flixcart.com/image/312/312/k12go7k0/mobile/7/e/e/apple-iphone-7-mn8x2hn-a-original-imafkqcqhzxuvcpd.jpeg?q=70"></div></div></div><div class="_3wLduG"><div class="_3PzNI-"><span class="f3A4_V"><div class="_2iDkf8"><label><input type="checkbox" class="_30VH1S" readonly="" value="on"><div class="_24_Dny"></div></label></div></span><label class="_6Up2sF"><span>Add to Compare</span></label></div></div><div class="_2hVSre _3nq8ih"><div class="_36FSn5"><svg xmlns="http://www.w3.org/2000/svg" class="_1l0elc" width="16" height="16" viewBox="0 0 20 16"><path d="M8.695 16.682C4.06 12.382 1 9.536 1 6.065 1 3.219 3.178 1 5.95 1c1.566 0 3.069.746 4.05 1.915C10.981 1.745 12.484 1 14.05 1 16.822 1 19 3.22 19 6.065c0 3.471-3.06 6.316-7.695 10.617L10 17.897l-1.305-1.215z" fill="#2874F0" class="eX72wL" stroke="#FFF" fill-rule="evenodd" opacity=".9"></path></svg></div></div></div><div class="_3pLy-c row"><div class="col col-7-12"><div class="_4rR01T">Apple iPhone 7 (Black, 32 GB)</div><div class="gUuXy-"><span id="productRating_LSTMOBEMK62PN2HU7EEF7TO4A_MOBEMK62PN2HU7EE_" class="_1lRcqv"><div class="_3LWZlK">4.5<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg==" class="_1wB99o"></div></span><span class="_2_R_DZ"><span><span>93,929 Ratings&nbsp;</span><span class="_13vcmD">&amp;</span><span>&nbsp;9,236 Reviews</span></span></span></div><div class="fMghEO"><ul class="_1xgFaf"><li class="rgWa7D">32 GB ROM</li><li class="rgWa7D">11.94 cm (4.7 inch) Retina HD Display</li><li class="rgWa7D">12MP Rear Camera | 7MP Front Camera</li><li class="rgWa7D">Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor</li><li class="rgWa7D">iOS 13 Compatible</li><li class="rgWa7D">Brand Warranty of 1 Year</li></ul></div></div><div class="col col-5-12 nlI3QM"><div class="_3tbKJL"><div class="_25b18c"><div class="_30jeq3 _1_WHN1">₹29,799</div><div class="_3I9_wc _27UcVY">₹<!-- -->31,500</div><div class="_3Ay6Sb"><span>5% off</span></div></div></div><div class="_13J9qT"><img height="21" src="//img1a.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"></div><div class="_2ZdXDB"><div class="_18hQoS" style="color:#000000;font-size:12px;font-family:inherit;font-weight:normal">No Cost EMI</div></div><div class="_2ZdXDB"><div class="_18hQoS" style="color:#000000;font-size:14px;font-family:inherit;font-weight:normal">Upto </div><div class="_18hQoS" style="color:#000000;font-size:14px;font-family:inherit;font-weight:bold">₹14,750</div><div class="_18hQoS" style="color:#000000;font-size:14px;font-family:inherit;font-weight:normal"> Off on Exchange</div></div></div></div></a></div></div></div></div>
+<p class="_2sc7ZR _2V5EHH">Ezzazuddin Huseni</p>
+
+
+
+Task 1: Create a heroku account on heroku.com
+        https://signup.heroku.com/
+Task 2: Install GIT
+        https://git-scm.com/downloads
+Task 3: Install Heroku cli
+        https://devcenter.heroku.com/articles/heroku-cli
+
+ #create Procfile-basically holding a command, when we deploy it on cloud, cloud dont know which file supposed to use
+#shows the name of the file, Procfile without any extension. procfile is not required for local deployment its only for cloud deployment
+gunicorn is a library to execute file on cloud
+gunicorn app:app, here first app is the name of the file and second one denotes the instance
+in the main file its named as app=Flask(__name__)
+#you can remove the pymongo from the requirement.txt file
+#there should be hidden folder inthe pjoect folder, git init will initialize the basic git structure  project folder
+#git status  to tell the git that the all the folders are needed. kindly track all these folders
+#git add will add the required folders
+#git commit- will save the changes,  git commit -m "initial commit"--you can give any name
+#then do the changes in the file--->then git add . ------> then git commit -m "comments added"
+
+C:\Users\Admin\iNeuron classes\ML masters with deployment and DL\10. Python project\Notebooks\reviewScrapper
+#ls or dir to check the folder#
+#identity warning will do nothing _____do not worry
+#after do heroku log in from conda prompt or git bash, it will take you to the browser
+#heroku create will create empty app
+#git remote -v will give the git url to push app from local machine to that url
+#git push  heroku master=== to push the app heroku is just key we can use url rather, master is the branch the first branch, we can create anothe branch next time to push into that
+
+
+
+
+
+
+
+
+
